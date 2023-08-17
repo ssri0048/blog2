@@ -1,0 +1,31 @@
+{
+    "id": "6911EFD8",
+    "path": "~/Downloads/blog3/posts/host-with-post/index.qmd",
+    "project_path": "posts/host-with-post/index.qmd",
+    "type": "quarto_markdown",
+    "hash": "4293969983",
+    "contents": "",
+    "dirty": false,
+    "created": 1692286361338.0,
+    "source_on_save": false,
+    "relative_order": 3,
+    "properties": {
+        "rmdVisualMode": "false",
+        "rmdVisualWrapConfigured": "true",
+        "source_window_id": "",
+        "Source": "Source",
+        "docOutlineVisible": "1",
+        "rmdVisualCollapsedChunks": "",
+        "cursorPosition": "25,0",
+        "scrollLine": "10",
+        "rmdVisualModeLocation": "2:0"
+    },
+    "folds": "",
+    "lastKnownWriteTime": 1692286381,
+    "encoding": "UTF-8",
+    "collab_server": "",
+    "source_window": "",
+    "last_content_update": 1692286381235,
+    "read_only": false,
+    "read_only_alternatives": []
+}
